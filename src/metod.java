@@ -5,6 +5,7 @@ public class metod
        public static int Rakna(){
 
        int i = 0;
+       int k=1;
        }
 
 
