@@ -1,0 +1,11 @@
+# ingorear projekrinställningar:
+.idea/
+
+# ingorera alla byggfiler och annat bös:
+out/
+
+#Ingorera alla iml-filer:
+*.iml
+
+#Operativsystemspecifika filer:
+.DS_Store
