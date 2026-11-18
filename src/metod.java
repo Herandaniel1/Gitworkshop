@@ -1,4 +1,12 @@
 public class metod
 {
-    // TODO: ujhciudfhcdiyfh
+   public static void manin(String [] args){}
+
+       public static int Rakna(){
+
+       int i = 0;
+       }
+
+
+
 }
